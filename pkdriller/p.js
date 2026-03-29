@@ -25,7 +25,7 @@ zokou({
               `│ 🕒 Time: *${time}*\n` +
               `│\n` +
               `│ 💬 WhatsApp: wa.me/${conf.NUMERO_OWNER}\n` +
-              `│ 🌐 GitHub: ${conf.GURL}\n` +
+              `│ 🌐 GitHub: https://github.com/officialPkdriller` +
               `│\n` +
               `╰───────────────❏`;
 
@@ -42,7 +42,7 @@ zokou({
         externalAdReply: {
           title: "👑 NEXUS-AI DEVELOPER",
           body: "Powered by PKDRILLER ⚡",
-          thumbnailUrl: conf.LOGO,
+          thumbnailUrl: "https://files.catbox.moe/e2rhpu.jpg",
           sourceUrl: conf.GURL,
           mediaType: 1,
           renderLargerThumbnail: true
